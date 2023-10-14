@@ -1,0 +1,2 @@
+# RustPro
+Rust Learing notes
